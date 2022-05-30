@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        fieldset{
+            width: 500px;
+            text-align: center;
+            background-color: lightgray;
+        }
+       /* #titleBox{
+         display: none;
+        }
+        #writerBox{
+            display: none;
+        }
+        #dateBox{
+            display: none;
+        }*/
+        #titleInput{
+            width: 400px;
+        }
+        
+        .box{
+            background-color: orange;
+            width: 500px;
+            height: 50px;
+            padding:10px;
+            display: none;
+        }
+    </style>
+    <script>
+        /*function titleShow(){
+            document.getElementById("writerBox").style.display = "none";
+            document.getElementById("dateBox").style.display = "none";
+            document.getElementById("titleBox").style.display = "block";
+            
+            console.log("test")
+        }
+        function date(){
+            document.getElementById("writerBox").style.display = "none";
+            document.getElementById("titleBox").style.display = "none";
+            document.getElementById("dateBox").style.display = "block";
+            let radioBox =document.getElementsByTagName("input");
+            
+        }
+        function writer(){
+            document.getElementById("dateBox").style.display = "none";
+            document.getElementById("titleBox").style.display = "none";
+            document.getElementById("writerBox").style.display = "block";
+        }*/
+        function showDiv(element){
+            console.log(element);
+            
+            if(element.checked==true&& element.value=="title"){
+                document.getElementById("titleBox").style.display="block";
+                document.getElementById("dateBox").style.display="none";
+                document.getElementById("writerBox").style.display="none";
+            }
+            if(element.checked==true && element.value=="date"){
+                document.getElementById("dateBox").style.display="block";
+                document.getElementById("titleBox").style.display="none";
+                document.getElementById("writerBox").style.display="none";
+            }
+            if(element.checked==true && element.value=="writer"){
+                document.getElementById("writerBox").style.display="block";
+                document.getElementById("dateBox").style.display="none";
+                document.getElementById("titleBox").style.display="none";
+            }
+        }
+    </script>
+</head>
+<body>
+    <h2>연습 2</h2>
+    <fieldset>
+        <legend>검색할 항목을 선택하세요.</legend>
+        <input onclick="showDiv(this);" type="radio" name="category" value="title"id="title"><label for="title">제목</label> 
+        <input onclick="showDiv(this);" type="radio" name="category" value="date" id="date"><label for="date">날짜</label>
+        <input onclick="showDiv(this);" type="radio" name="category" value="writer" id="writer"><label for="writer">작성자</label>
+    </fieldset>
+    <hr>
+    <div id="titleBox" class="box">
+        <label>검색할 제목을 입력하세요 : </label>
+        <input type="text" id="titleInput">
+        <button>검색</button>
+    </div>
+
+    <div id="dateBox" class="box">
+        <form action="">
+            <label>검색할 날짜를 선택하세요 : </label> <br>
+            <input type="date"> - 
+            <input type="date">
+            <input type="submit" value="검색">
+        </form>
+    </div>
+
+    <div id="writerBox" class="box">
+        <form action="">
+           <label>검색할 작성자 아이디를 입력하세요 : </label> <br>
+            <input type="text">
+            <input type="submit" value="검색">
+        </form>
+    </div>
+</body>
+</html>
