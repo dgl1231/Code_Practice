@@ -1,4 +1,3 @@
-
 <%@page import="java.util.List"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -34,9 +33,9 @@
 			//session에 담긴 객체가 살아있는 시간
 			session.setMaxInactiveInterval(60*60);
 			
-			if(dto.getMyrole().equals("ADMIN")){
+			if(dto.getMyrole().equals("admin")){
 				response.sendRedirect("adminmain.jsp");
-			}else if(dto.getMyrole().equals("USER")){
+			}else if(dto.getMyrole().equals("user")){
 				response.sendRedirect("usermain.jsp");
 			}
 			
