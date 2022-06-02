@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\github\Code_Practice\5_Web"/>
 			<item value="D:\github\TILCode-master\5_Web"/>
 			<item value="D:\github\TILCode-master\5_Web\Jsp03_MVC"/>
 			<item value="D:\github\TILCode-master"/>

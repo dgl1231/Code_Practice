@@ -1,5 +1,8 @@
 package com.login.dao;
 
+
+import static common.JDBCTemplate.*;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -7,28 +10,29 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static common.JDBCTemplate.*;
-
 import com.login.dto.MyMemberDto;
 
 public class MyMemberDao {
+	
+	
+	//Î°úÍ∑∏Ïù∏
 	public MyMemberDto login(String id, String pw) {
 		Connection con = getConnection();
 		PreparedStatement pstm = null;
 		ResultSet rs = null;
 		MyMemberDto res = new MyMemberDto();
 		
-		String sql = "SELECT * FROM MYMEMBER WHERE MYID=? AND MYPW=? AND MYENABLED=?";
+		String sql = " SELECT * FROM MYMEMBER WHERE MYID=? AND MYPW=? AND MYENABLED=? ";
 		
 		try {
 			pstm = con.prepareStatement(sql);
 			pstm.setString(1, id);
 			pstm.setString(2, pw);
-			pstm.setString(3, "y");
-			System.out.println("03.query ¡ÿ∫Ò" + sql);
+			pstm.setString(3, "Y");
+			System.out.println("03.query Ï§ÄÎπÑ: " + sql);
 			
-			rs =pstm.executeQuery();
-			System.out.println("04.query Ω««‡ π◊ ∏Æ≈œ");
+			rs = pstm.executeQuery();
+			System.out.println("04.query Ïã§Ìñâ Î∞è Î¶¨ÌÑ¥");
 			while(rs.next()) {
 				res.setMyno(rs.getInt(1));
 				res.setMyid(rs.getString(2));
@@ -39,37 +43,37 @@ public class MyMemberDao {
 				res.setMyemail(rs.getString(7));
 				res.setMyenabled(rs.getString(8));
 				res.setMyrole(rs.getString(9));
-				
 			}
-			
-			
-		}catch(SQLException e) {
-			System.out.println("3/4 ¥‹∞Ë ø°∑Ø");
+		} catch (SQLException e) {
+			System.out.println("3/4 Îã®Í≥Ñ ÏóêÎü¨");
 			e.printStackTrace();
-		}finally {
+		} finally {
 			close(rs);
 			close(pstm);
 			close(con);
-			System.out.println("05.db¡æ∑·");
+			System.out.println("05.db Ï¢ÖÎ£å\n");
 		}
-		
 		return res;
 	}
 	
+	
+	//ÌöåÏõê Ï†ÑÏ≤¥ Ï°∞Ìöå
 	public List<MyMemberDto> selectAll(){
 		Connection con = getConnection();
 		PreparedStatement pstm = null;
 		ResultSet rs = null;
 		List<MyMemberDto> res = new ArrayList<>();
 		
-		String sql = "SELECT * FROM MYMEMBER ORDER BY MYNO DESC";
+		String sql = " SELECT * FROM MYMEMBER ORDER BY MYNO DESC ";
+		
 		
 		try {
 			pstm = con.prepareStatement(sql);
-			System.out.println("03.query ¡ÿ∫Ò" + sql);
+			System.out.println("03.query Ï§ÄÎπÑ: " + sql);
 			
 			rs = pstm.executeQuery();
-			System.out.println("04.query Ω««‡ π◊ ∏Æ≈œ");
+			System.out.println("04.query Ïã§Ìñâ Î∞è Î¶¨ÌÑ¥");
+			
 			while(rs.next()) {
 				MyMemberDto tmp = new MyMemberDto();
 				tmp.setMyno(rs.getInt(1));
@@ -81,21 +85,121 @@ public class MyMemberDao {
 				tmp.setMyemail(rs.getString(7));
 				tmp.setMyenabled(rs.getString(8));
 				tmp.setMyrole(rs.getString(9));
-				
+
 				res.add(tmp);
 			}
 			
-		}catch(SQLException e) {
-			System.out.println("3/4 ¥‹∞Ë ø°∑Ø");
-			e.printStackTrace();
-		}finally {
+		} catch (SQLException e) {
+			System.out.println("3/4 Îã®Í≥Ñ ÏóêÎü¨");
+			e.printStackTrace(); 
+		} finally {
 			close(rs);
 			close(pstm);
 			close(con);
-			System.out.println("05.db¡æ∑·");
+			System.out.println("05.db Ï¢ÖÎ£å\n");
+		}
+		
+		return res;
+	}
+	
+	
+	
+	
+	//ÏïÑÏù¥Îîî Ï§ëÎ≥µÏ≤¥ÌÅ¨
+	public String idChk(String id) {
+		Connection con = getConnection();
+		PreparedStatement pstm = null;
+		ResultSet rs = null;
+		String res = null;
+		
+		String sql = " SELECT * FROM MYMEMBER WHERE MYID=? ";
+		
+		try {
+			pstm = con.prepareStatement(sql);
+			pstm.setString(1, id);
+			System.out.println("03.query Ï§ÄÎπÑ: " + sql);
+			
+			rs = pstm.executeQuery();
+			System.out.println("04.qeury Ïã§Ìñâ Î∞è Î¶¨ÌÑ¥");
+			
+			while(rs.next()) {
+				res = rs.getString(2);
+			}
+			
+		} catch (SQLException e) {
+			System.out.println("3/4 Îã®Í≥Ñ ÏóêÎü¨");
+			e.printStackTrace();
+		} finally {
+			close(rs);
+			close(pstm);
+			close(con);
+			System.out.println("05.db Ï¢ÖÎ£å\n");
 		}
 		return res;
 	}
+	
+	
+	
+	//ÌöåÏõêÍ∞ÄÏûÖ
+	public int insertUser(MyMemberDto dto) {
+		Connection con = getConnection();
+		PreparedStatement pstm = null;
+		int res = 0;
+		
+		String sql = "  INSERT INTO MYMEMBER VALUES(NULL, ?, ?, ?, ?, ?, ?, 'Y', 'USER' ) ";
+		
+		try {
+			pstm = con.prepareStatement(sql);
+			pstm.setString(1, dto.getMyid());
+			pstm.setString(2, dto.getMypw());
+			pstm.setString(3, dto.getMyname());
+			pstm.setString(4, dto.getMyaddr());
+			pstm.setString(5, dto.getMyphone());
+			pstm.setString(6, dto.getMyemail());
+			System.out.println("03.query Ï§ÄÎπÑ: " + sql);
+			
+			res = pstm.executeUpdate();
+			System.out.println("04.query Ïã§Ìñâ Î∞è Î¶¨ÌÑ¥");
+			
+			if(res>0) {
+				commit(con);
+			}else {
+				rollback(con);
+			}
+			
+		} catch (SQLException e) {
+			System.out.println("3/4 Îã®Í≥Ñ ÏóêÎü¨");
+			e.printStackTrace();
+		} finally {
+			close(pstm);
+			close(con);
+			System.out.println("05.db Ï¢ÖÎ£å\n");
+		}
+		return res;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 }

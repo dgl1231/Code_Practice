@@ -1,9 +1,0 @@
-package com.login.dao;
-
-import com.login.dto.MyMemberDto;
-
-public class MyMemberDao {
-	public MyMemberDto login(String id, String pw) {
-		return null;
-	}
-}
