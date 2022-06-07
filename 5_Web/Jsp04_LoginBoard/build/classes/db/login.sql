@@ -10,8 +10,7 @@ create table MYMEMBER(
 	MYROLE VARCHAR(50) not null
 );
 
-insert into MYMEMBER VALUES(null,'ADMIN','ADMIN1234','관리자','관리시 관리구 관리동',
-				'010-1234-5678','ADMIN@MYMEMBER.COM', 'Y','ADMIN');
-
-
 select * from MYMEMBER;
+
+insert into MYMEMBER VALUES(null, 'ADMIN', 'ADMIN1234', '관리자','관리시 관리구 관리동','010-1234-5678',
+'ADMIN@MYMEMBER.COM','Y','ADMIN');
