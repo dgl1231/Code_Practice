@@ -8,7 +8,7 @@
 		<property name="price" value="25000"></property>
 	</bean>
 	<bean id="unFavoriteFood" name="unFavoriteFood" class="com.test02.Food">
-		<constructor-arg value="치킨"></constructor-arg>
+		<constructor-arg value="피자"></constructor-arg>
 		<constructor-arg value="20000"></constructor-arg>
 	</bean>
 	<bean id="myFood" class="com.test02.MyFood" autowire="default"/>

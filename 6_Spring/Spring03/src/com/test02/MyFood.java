@@ -5,7 +5,7 @@ public class MyFood {
 	private Food unFavoriteFood;
 	
 	public MyFood() {
-		favoriteFood = new Food("피자",15000);
+		favoriteFood = new Food("ġŲ",15000);
 	}
 	public MyFood(Food favoriteFood, Food unFavoriteFood) {
 		super();

@@ -6,6 +6,6 @@ public class MyClass {
 	}
 	
 	public void prn() {
-		System.out.println("prn() 메소드 호출");
+		System.out.println("prn() �޼ҵ� ȣ��");
 	}
 }

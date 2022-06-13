@@ -24,9 +24,9 @@
 		<!-- 5.public void setArray(String[] arr) 호출 -->
 		<property name="array">
 			<array>
-				<value>이한슬</value>
-				<value>삼한슬</value>
-				<value>사한슬</value>
+				<value>이동건</value>
+				<value>양윤열</value>
+				<value>윤재형</value>
 			</array>
 		</property>
 		<!-- 6. public void setList(List<String> list) 호출 -->
@@ -67,7 +67,7 @@
 			<list>
 			<ref bean="sc"/>
 			<bean class="com.test01.Score">
-				<property name="name" value="김한슬"></property>
+				<property name="name" value="양윤열"></property>
 				<property name="kor" value="20"></property>
 				<property name="eng" value="50"></property>
 				<property name="math" value="90"></property>
@@ -76,7 +76,7 @@
 		</property>
 	</bean>
 	<bean id="sc" class="com.test01.Score">
-		<constructor-arg value="이한슬" />
+		<constructor-arg value="이동건" />
 		<constructor-arg value="100"/>
 		<constructor-arg value="60"/>
 		<constructor-arg value="10"/>

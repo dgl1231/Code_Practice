@@ -11,28 +11,28 @@ public class BeanTest {
 	private MyClass myClass;
 	
 	public BeanTest() {
-		System.out.println("ê¸°ë³¸ìƒì„±ì (no-args)");
+		System.out.println("±âº»»ı¼ºÀÚ(no-args)");
 	}
 	
 	public BeanTest(Date date) {
-		System.out.println("ë‚ ì§œ ìƒì„±ì (date: "+date+")");
+		System.out.println("³¯Â¥»ı¼ºÀÚ (date: "+date+")");
 	}
 	
 	public void setMyClass(MyClass myClass) {
 		this.myClass= myClass;
-		System.out.println("SetMyClass() í˜¸ì¶œ");
+		System.out.println("SetMyClass() È£Ãâ");
 	}
 	
 	public void setDate(Date date) {
-		System.out.println("setDate()í˜¸ì¶œ :" +date);
+		System.out.println("setDate()È£Ãâ :" +date);
 	}
 	
 	public void setNumber(int num) {
-		System.out.println("setNumber() í˜¸ì¶œ : "+ num);
+		System.out.println("setNumber() È£Ãâ: "+ num);
 	}
 	
 	public void setArray(String[] arr) {
-		System.out.println("setArray() í˜¸ì¶œ");
+		System.out.println("setArray() È£Ãâ");
 		
 		for(int i=0;i<arr.length;i++) {
 			System.out.println(arr[i]);
@@ -40,28 +40,28 @@ public class BeanTest {
 	}
 	
 	public void setList(List<String> list) {
-		System.out.println("setList() í˜¸ì¶œ");
+		System.out.println("setList() È£Ãâ");
 		for(String val: list) {
 			System.out.println(val);
 		}
 	}
 	
 	public void setSet(Set<String> set) {
-		System.out.println("setSet() í˜¸ì¶œ");
+		System.out.println("setSet() È£Ãâ");
 		
 		for(String val: set) {
 			System.out.println(val);
 		}
 	}
 	public void setMap(Map<String,String> map) {
-		System.out.println("setMap() í˜¸ì¶œ");
+		System.out.println("setMap() È£Ãâ");
 		Collection<String> values=map.values();
 		for(String val:values) {
 			System.out.println(val);
 		}
 	}
 	public void setScore(List<Score> list) {
-		System.out.println("setScores() í˜¸ì¶œ");
+		System.out.println("setScores()È£Ãâ");
 		for(Score s: list) {
 			System.out.println(s);
 		}
