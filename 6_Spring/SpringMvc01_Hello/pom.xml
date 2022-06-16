@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mvc</groupId>
 	<artifactId>hello</artifactId>
-	<name>SpringMvc01_Hello</name>
+	<name>SpringMVC01_Hello</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
