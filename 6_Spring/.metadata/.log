@@ -786,3 +786,1248 @@ java.io.FileNotFoundException: D:\github\Code_Practice\6_Spring\SpringMVC02\src\
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-13 10:41:54.195
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2022-06-19 15:14:10.400 -----------------------------------------------
+eclipse.buildId=3.9.17.202106211233-RELEASE-e420
+java.version=11.0.14.1
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.jface 2 0 2022-06-19 15:14:17.191
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-06-19 15:14:17.191
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4131f6db,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5cdf61d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-19 15:14:22.954
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dgl12'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:33.362
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:33.364
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:35.510
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:35.512
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:37.171
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:37.172
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:37.179
+!MESSAGE The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:37.183
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:39.094
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:39.113
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:39.123
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:40.343
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:40.346
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:14:40.350
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2022-06-19 15:14:55.990 -----------------------------------------------
+eclipse.buildId=3.9.17.202106211233-RELEASE-e420
+java.version=11.0.14.1
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.jface 2 0 2022-06-19 15:15:12.861
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-06-19 15:15:12.861
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@cbea0df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@396f3bf2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-19 15:15:18.544
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dgl12'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:18:37.483
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:18:37.485
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:18:38.557
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:18:38.568
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:18:39.693
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 15:18:39.694
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-06-19 15:19:08.469
+!MESSAGE Could not download sources for org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-06-19 15:19:08.470
+!MESSAGE Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-06-19 15:19:08.470
+!MESSAGE Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:sources:2.2.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-06-19 15:20:12.990
+!MESSAGE Could not download javadoc for org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-06-19 15:20:12.990
+!MESSAGE Could not resolve artifact org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-06-19 15:20:12.990
+!MESSAGE Missing org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:javadoc:2.2.2
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 15:31:08.712
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-06-19 15:38:53.826
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/test/pom.xml)
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\github\Code_Practice\6_Spring\test\pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\t\n\t</dependencies>... @59:17)  @ line 59, column 17
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\github\Code_Practice\6_Spring\test\pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\t\n\t</dependencies>... @59:17)  @ line 59, column 17
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2022-06-19 15:38:53.827
+!MESSAGE Could not read maven project
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2022-06-19 15:38:53.827
+!MESSAGE Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\github\Code_Practice\6_Spring\test\pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\t\n\t</dependencies>... @59:17)  @ line 59, column 17
+
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM D:\github\Code_Practice\6_Spring\test\pom.xml: end tag name </dependencies> must match start tag name <project> from line 2 (position: TEXT seen ...</dependency>\t\n\t</dependencies>... @59:17)  @ line 59, column 17
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-06-19 15:38:53.934
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-06-19 15:38:53.934
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-06-19 15:38:55.946
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-06-19 15:38:55.946
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'dependency' (position: START_TAG seen ...<!--  \ub0b4\uc7a5\ud1b0\ucea3\uc744 \uc0ac\uc6a9\ud560\uc218 \uc788\ub3c4\ub85d \ucd94\uac00\ud568 -->\n\t\t<dependency>... @51:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 more
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 16:31:07.788
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findNext: {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@5736c7fa)} vs {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@5736c7fa)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@5736c7fa),  for 'org.eclipse.ui.edit.findNext',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@5736c7fa),  for 'org.eclipse.ui.edit.findNext',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.FindNextAction.update(FindNextAction.java:238)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 16:31:07.808
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findPrevious: {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@2da7ab06)} vs {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@2da7ab06)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@2da7ab06),  for 'org.eclipse.ui.edit.findPrevious',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@2da7ab06),  for 'org.eclipse.ui.edit.findPrevious',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.FindNextAction.update(FindNextAction.java:238)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 16:31:07.808
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findIncremental: {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@3dfd6222)} vs {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@3dfd6222)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@3dfd6222),  for 'org.eclipse.ui.edit.findIncremental',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@3dfd6222),  for 'org.eclipse.ui.edit.findIncremental',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.IncrementalFindAction.update(IncrementalFindAction.java:118)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 16:31:07.809
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findIncrementalReverse: {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@550d5f44)} vs {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@550d5f44)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@550d5f44),  for 'org.eclipse.ui.edit.findIncrementalReverse',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@550d5f44),  for 'org.eclipse.ui.edit.findIncrementalReverse',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@18bbdfca), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.IncrementalFindAction.update(IncrementalFindAction.java:118)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2022-06-19 16:35:49.753
+!MESSAGE Several ports (8005, 8080) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2022-06-19 16:35:53.719
+!MESSAGE Several ports (8005, 8080) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2022-06-19 16:36:34.127
+!MESSAGE Several ports (8005, 6000) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:41:53.619
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 16:43:58.822
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:45:05.281
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:45:10.663
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:45:21.549
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2022-06-19 16:48:51.515
+!MESSAGE Port 8005 required by Tomcat v9.0 Server at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:49:25.613
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:50:12.924
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:50:21.073
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:50:25.194
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:51:39.599
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:52:34.461
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 16:55:15.149
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 16:55:15.662
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:55:37.389
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:56:06.050
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2022-06-19 16:57:08.101
+!MESSAGE Several ports (8005, 8080) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:57:13.597
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:58:09.012
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:58:16.208
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-06-19 16:58:23.327
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+!SESSION 2022-06-19 16:59:31.282 -----------------------------------------------
+eclipse.buildId=3.9.17.202106211233-RELEASE-e420
+java.version=11.0.14.1
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.jface 2 0 2022-06-19 16:59:38.229
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-06-19 16:59:38.229
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1237aa73,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1dbb9a4a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-19 16:59:44.289
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dgl12'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 17:00:52.432
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 17:00:52.434
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 17:00:53.489
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 17:00:53.498
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 17:00:53.791
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 17:00:53.793
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 17:04:02.816
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 17:04:22.461
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 17:04:30.977
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 17:25:45.893
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 17:38:06.424
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findNext: {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@3e6e6f3a)} vs {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@3e6e6f3a)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@3e6e6f3a),  for 'org.eclipse.ui.edit.findNext',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@3e6e6f3a),  for 'org.eclipse.ui.edit.findNext',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.FindNextAction.update(FindNextAction.java:238)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 17:38:06.443
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findPrevious: {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@6838d9f)} vs {ActionHandler(org.eclipse.ui.texteditor.FindNextAction@6838d9f)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@6838d9f),  for 'org.eclipse.ui.edit.findPrevious',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.FindNextAction@6838d9f),  for 'org.eclipse.ui.edit.findPrevious',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.FindNextAction.update(FindNextAction.java:238)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 17:38:06.444
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findIncremental: {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@4b7590eb)} vs {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@4b7590eb)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@4b7590eb),  for 'org.eclipse.ui.edit.findIncremental',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@4b7590eb),  for 'org.eclipse.ui.edit.findIncremental',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.IncrementalFindAction.update(IncrementalFindAction.java:118)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+
+!ENTRY org.eclipse.ui 4 4 2022-06-19 17:38:06.444
+!MESSAGE Conflicting handlers for org.eclipse.ui.edit.findIncrementalReverse: {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@385c2766)} vs {ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@385c2766)} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+!STACK 0
+java.lang.IllegalStateException: Conflicting handlers: {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@385c2766),  for 'org.eclipse.ui.edit.findIncrementalReverse',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} vs {[ActionHandler(org.eclipse.ui.texteditor.IncrementalFindAction@385c2766),  for 'org.eclipse.ui.edit.findIncrementalReverse',  in PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext, activeWhen=ActivePartExpression(org.eclipse.mylyn.internal.wikitext.ui.editor.MarkupEditor@df0f71f), active=true, sourcePriority=1048576, participating=true]} in: PartImpl (org.eclipse.e4.ui.compatibility.editor)  removeOnHide org.eclipse.mylyn.wikitext.ui.editor.markupEditorContext
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService$HandlerSelectionFunction.compute(LegacyHandlerService.java:145)
+	at org.eclipse.e4.core.internal.contexts.ValueComputation.get(ValueComputation.java:70)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.internalGet(EclipseContext.java:271)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.get(EclipseContext.java:237)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.lookUpHandler(HandlerServiceImpl.java:103)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.handlerChanged(E4HandlerProxy.java:114)
+	at org.eclipse.core.commands.AbstractHandler.fireHandlerChanged(AbstractHandler.java:77)
+	at org.eclipse.jface.commands.ActionHandler.lambda$0(ActionHandler.java:81)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:52)
+	at org.eclipse.jface.action.AbstractAction.firePropertyChange(AbstractAction.java:75)
+	at org.eclipse.jface.action.Action.setEnabled(Action.java:541)
+	at org.eclipse.ui.texteditor.IncrementalFindAction.update(IncrementalFindAction.java:118)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateAction(AbstractTextEditor.java:5357)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.updateContentDependentActions(AbstractTextEditor.java:5441)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextListener.lambda$0(AbstractTextEditor.java:615)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4001)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3629)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1435)
+!SESSION 2022-06-19 19:30:48.301 -----------------------------------------------
+eclipse.buildId=3.9.17.202106211233-RELEASE-e420
+java.version=11.0.14.1
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.jface 2 0 2022-06-19 19:30:53.694
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-06-19 19:30:53.694
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1dbb9a4a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@60e5b3a8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-06-19 19:31:00.344
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dgl12'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 19:31:02.577
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 19:31:02.581
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 19:31:09.070
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 19:31:09.092
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 19:31:09.400
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-06-19 19:31:09.401
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.ide.eclipse.beans.core 1 0 2022-06-19 20:03:47.197
+!MESSAGE Error occured processing 'com.test.StartBoot2Application'
+!STACK 0
+org.springframework.core.annotation.AnnotationConfigurationException: Attribute 'proxyBeanMethods' in annotation [org.springframework.boot.SpringBootConfiguration] is declared as an @AliasFor nonexistent attribute 'proxyBeanMethods' in annotation [org.springframework.context.annotation.Configuration].; nested exception is java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2128)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.from(AnnotationUtils.java:2095)
+	at org.springframework.core.annotation.AnnotationUtils.getAttributeAliasNames(AnnotationUtils.java:1751)
+	at org.springframework.core.annotation.AnnotationUtils.isSynthesizable(AnnotationUtils.java:1710)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotation(AnnotationUtils.java:1493)
+	at org.springframework.core.annotation.AnnotationUtils.synthesizeAnnotationArray(AnnotationUtils.java:1597)
+	at org.springframework.core.annotation.AnnotationUtils.getAnnotations(AnnotationUtils.java:231)
+	at org.springframework.core.type.classreading.AnnotationAttributesReadingVisitor.visitEnd(AnnotationAttributesReadingVisitor.java:76)
+	at org.springframework.asm.ClassReader.readAnnotationValues(ClassReader.java:2020)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:676)
+	at org.springframework.asm.ClassReader.accept(ClassReader.java:527)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtConnectedMetadataReader.<init>(JdtConnectedMetadataReader.java:45)
+	at org.springframework.ide.eclipse.core.java.classreading.JdtMetadataReaderFactory.getMetadataReader(JdtMetadataReaderFactory.java:53)
+	at org.springframework.ide.eclipse.core.java.classreading.CachingJdtMetadataReaderFactory.getMetadataReader(CachingJdtMetadataReaderFactory.java:38)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig.registerBean(BeansJavaConfig.java:368)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:229)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansJavaConfig$2.call(BeansJavaConfig.java:1)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.NoSuchMethodException: org.springframework.context.annotation.Configuration.proxyBeanMethods()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2475)
+	at org.springframework.core.annotation.AnnotationUtils$AliasDescriptor.<init>(AnnotationUtils.java:2121)
+	... 22 more

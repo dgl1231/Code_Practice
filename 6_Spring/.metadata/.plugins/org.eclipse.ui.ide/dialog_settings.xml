@@ -108,8 +108,12 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\github\Code_Practice\6_Spring\StartBoot3"/>
+			<item value="D:\github\Code_Practice\6_Spring\Study"/>
 			<item value="D:\github\Code_Practice\6_Spring"/>
 			<item value="D:\github\Code_Practice\6_Spring\Spring02_Beans"/>
 		</list>
+	</section>
+	<section name="NewWizardAction">
 	</section>
 </section>
