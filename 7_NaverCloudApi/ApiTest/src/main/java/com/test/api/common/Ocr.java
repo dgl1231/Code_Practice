@@ -14,15 +14,13 @@ import java.util.UUID;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-
 public class Ocr {
-	public  String ocrTest(String path) {
-		String apiURL = "https://7pzca3v01s.apigw.ntruss.com/custom/v1/16775/06ea8fbdce0635189174aff404045f0829c7639b8176f85c77ec578c015a42a6/infer";
-		String secretKey = "ZFRzTm9YRGJpV1lkR3JrTHdHTWlFcUVKR1Jra2FsZ3U=";
-		String imageFile = path+"\\img01.jpg";
-		
-		StringBuffer response = null;
-		 
+	public String ocrTest(String path) {
+		String apiURL = "https://dqzu8gkqwg.apigw.ntruss.com/custom/v1/16768/b681c1f4d959647af4e5895bcec5876593152bba5739de91681c718b3aea2985/infer";
+		String secretKey = "eE5Uc29YQXNVQXp4QnRSWGF3c2JHQVlKa3RPRmx5bnY=";
+		String imageFile = path+"\\img01.jpg ";
+		StringBuffer  response= null;
+
 		try {
 			URL url = new URL(apiURL);
 			HttpURLConnection con = (HttpURLConnection)url.openConnection();
@@ -62,11 +60,9 @@ public class Ocr {
 				br = new BufferedReader(new InputStreamReader(con.getErrorStream()));
 			}
 			String inputLine;
-			
 			response = new StringBuffer();
-			
 			while ((inputLine = br.readLine()) != null) {
-				response.append(inputLine);
+				response.append(inputLine); //추가
 			}
 			br.close();
 
@@ -74,7 +70,6 @@ public class Ocr {
 		} catch (Exception e) {
 			System.out.println(e);
 		}
-		
 		return response.toString();
 	}
 
@@ -112,4 +107,5 @@ public class Ocr {
 		}
 		out.flush();
 	}
+
 }
